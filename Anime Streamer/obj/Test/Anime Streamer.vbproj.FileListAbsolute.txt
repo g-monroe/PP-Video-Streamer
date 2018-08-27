@@ -1,0 +1,44 @@
+C:\Users\Netro\Documents\Visual Studio 2013\Projects\Anime Streamer\Anime Streamer\bin\Test\Anime Streamer.exe.config
+C:\Users\Netro\Documents\Visual Studio 2013\Projects\Anime Streamer\Anime Streamer\obj\Test\Interop.AXVLC.dll
+C:\Users\Netro\Documents\Visual Studio 2013\Projects\Anime Streamer\Anime Streamer\obj\Test\Interop.IWshRuntimeLibrary.dll
+C:\Users\Netro\Documents\Visual Studio 2013\Projects\Anime Streamer\Anime Streamer\obj\Test\AxInterop.AXVLC.dll
+C:\Users\Netro\Documents\Visual Studio 2013\Projects\Anime Streamer\Anime Streamer\obj\Test\Anime Streamer.vbproj.ResolveComReference.cache
+C:\Users\Netro\Documents\Visual Studio 2013\Projects\Anime Streamer\Anime Streamer\bin\Test\Anime Streamer.exe
+C:\Users\Netro\Documents\Visual Studio 2013\Projects\Anime Streamer\Anime Streamer\bin\Test\Interop.AXVLC.dll
+C:\Users\Netro\Documents\Visual Studio 2013\Projects\Anime Streamer\Anime Streamer\bin\Test\AxInterop.AXVLC.dll
+C:\Users\Netro\Documents\Visual Studio 2013\Projects\Anime Streamer\Anime Streamer\obj\Test\Anime Streamer.vbprojResolveAssemblyReference.cache
+C:\Users\Netro\Documents\Visual Studio 2013\Projects\Anime Streamer\Anime Streamer\obj\Test\Anime_Streamer.UControl_AnimeSelector.resources
+C:\Users\Netro\Documents\Visual Studio 2013\Projects\Anime Streamer\Anime Streamer\obj\Test\Anime_Streamer.UControl_ListOption.resources
+C:\Users\Netro\Documents\Visual Studio 2013\Projects\Anime Streamer\Anime Streamer\obj\Test\Anime_Streamer.UControl_NewRelease.resources
+C:\Users\Netro\Documents\Visual Studio 2013\Projects\Anime Streamer\Anime Streamer\obj\Test\Anime_Streamer.UControl_OnGSeries.resources
+C:\Users\Netro\Documents\Visual Studio 2013\Projects\Anime Streamer\Anime Streamer\obj\Test\Anime_Streamer.UControl_PeopleRWatching.resources
+C:\Users\Netro\Documents\Visual Studio 2013\Projects\Anime Streamer\Anime Streamer\obj\Test\Anime_Streamer.UControl_Player.resources
+C:\Users\Netro\Documents\Visual Studio 2013\Projects\Anime Streamer\Anime Streamer\obj\Test\Anime_Streamer.UControl_PopularItem.resources
+C:\Users\Netro\Documents\Visual Studio 2013\Projects\Anime Streamer\Anime Streamer\obj\Test\Anime_Streamer.UControl_Recommendation.resources
+C:\Users\Netro\Documents\Visual Studio 2013\Projects\Anime Streamer\Anime Streamer\obj\Test\Anime_Streamer.UControl_VideoOptions.resources
+C:\Users\Netro\Documents\Visual Studio 2013\Projects\Anime Streamer\Anime Streamer\obj\Test\Anime_Streamer.Loading.resources
+C:\Users\Netro\Documents\Visual Studio 2013\Projects\Anime Streamer\Anime Streamer\obj\Test\Anime_Streamer.Main.resources
+C:\Users\Netro\Documents\Visual Studio 2013\Projects\Anime Streamer\Anime Streamer\obj\Test\Anime_Streamer.Updater.resources
+C:\Users\Netro\Documents\Visual Studio 2013\Projects\Anime Streamer\Anime Streamer\obj\Test\Anime_Streamer.Resources.resources
+C:\Users\Netro\Documents\Visual Studio 2013\Projects\Anime Streamer\Anime Streamer\obj\Test\Anime Streamer.vbproj.GenerateResource.Cache
+C:\Users\Netro\Documents\Visual Studio 2013\Projects\Anime Streamer\Anime Streamer\obj\Test\Anime Streamer.exe
+C:\Users\Family\Documents\Visual Studio 2013\Projects\Anime Streamer\Anime Streamer\bin\Test\Anime Streamer.exe.config
+C:\Users\Family\Documents\Visual Studio 2013\Projects\Anime Streamer\Anime Streamer\obj\Test\Interop.IWshRuntimeLibrary.dll
+C:\Users\Family\Documents\Visual Studio 2013\Projects\Anime Streamer\Anime Streamer\obj\Test\Anime Streamer.vbproj.ResolveComReference.cache
+C:\Users\Family\Documents\Visual Studio 2013\Projects\Anime Streamer\Anime Streamer\obj\Test\Anime Streamer.exe
+C:\Users\Family\Documents\Visual Studio 2013\Projects\Anime Streamer\Anime Streamer\obj\Test\Anime Streamer.vbprojResolveAssemblyReference.cache
+C:\Users\Family\Documents\Visual Studio 2013\Projects\Anime Streamer\Anime Streamer\obj\Test\Anime_Streamer.UControl_AnimeSelector.resources
+C:\Users\Family\Documents\Visual Studio 2013\Projects\Anime Streamer\Anime Streamer\obj\Test\Anime_Streamer.UControl_ListOption.resources
+C:\Users\Family\Documents\Visual Studio 2013\Projects\Anime Streamer\Anime Streamer\obj\Test\Anime_Streamer.UControl_NewRelease.resources
+C:\Users\Family\Documents\Visual Studio 2013\Projects\Anime Streamer\Anime Streamer\obj\Test\Anime_Streamer.UControl_OnGSeries.resources
+C:\Users\Family\Documents\Visual Studio 2013\Projects\Anime Streamer\Anime Streamer\obj\Test\Anime_Streamer.UControl_PeopleRWatching.resources
+C:\Users\Family\Documents\Visual Studio 2013\Projects\Anime Streamer\Anime Streamer\obj\Test\Anime_Streamer.UControl_Player.resources
+C:\Users\Family\Documents\Visual Studio 2013\Projects\Anime Streamer\Anime Streamer\obj\Test\Anime_Streamer.UControl_PopularItem.resources
+C:\Users\Family\Documents\Visual Studio 2013\Projects\Anime Streamer\Anime Streamer\obj\Test\Anime_Streamer.UControl_Recommendation.resources
+C:\Users\Family\Documents\Visual Studio 2013\Projects\Anime Streamer\Anime Streamer\obj\Test\Anime_Streamer.UControl_VideoOptions.resources
+C:\Users\Family\Documents\Visual Studio 2013\Projects\Anime Streamer\Anime Streamer\obj\Test\Anime_Streamer.Loading.resources
+C:\Users\Family\Documents\Visual Studio 2013\Projects\Anime Streamer\Anime Streamer\obj\Test\Anime_Streamer.Main.resources
+C:\Users\Family\Documents\Visual Studio 2013\Projects\Anime Streamer\Anime Streamer\obj\Test\Anime_Streamer.Updater.resources
+C:\Users\Family\Documents\Visual Studio 2013\Projects\Anime Streamer\Anime Streamer\obj\Test\Anime_Streamer.Resources.resources
+C:\Users\Family\Documents\Visual Studio 2013\Projects\Anime Streamer\Anime Streamer\obj\Test\Anime Streamer.vbproj.GenerateResource.Cache
+C:\Users\Family\Documents\Visual Studio 2013\Projects\Anime Streamer\Anime Streamer\bin\Test\Anime Streamer.exe

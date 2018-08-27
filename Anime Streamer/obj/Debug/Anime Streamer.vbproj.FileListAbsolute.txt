@@ -1,0 +1,67 @@
+c:\users\netro\documents\visual studio 2013\Projects\Anime Streamer\Anime Streamer\bin\Debug\Anime Streamer.exe.config
+c:\users\netro\documents\visual studio 2013\Projects\Anime Streamer\Anime Streamer\bin\Debug\Anime Streamer.exe
+c:\users\netro\documents\visual studio 2013\Projects\Anime Streamer\Anime Streamer\bin\Debug\Anime Streamer.pdb
+c:\users\netro\documents\visual studio 2013\Projects\Anime Streamer\Anime Streamer\bin\Debug\Anime Streamer.xml
+c:\users\netro\documents\visual studio 2013\Projects\Anime Streamer\Anime Streamer\obj\Debug\Anime_Streamer.Main.resources
+c:\users\netro\documents\visual studio 2013\Projects\Anime Streamer\Anime Streamer\obj\Debug\Anime_Streamer.Resources.resources
+c:\users\netro\documents\visual studio 2013\Projects\Anime Streamer\Anime Streamer\obj\Debug\Anime Streamer.vbproj.GenerateResource.Cache
+c:\users\netro\documents\visual studio 2013\Projects\Anime Streamer\Anime Streamer\obj\Debug\Anime Streamer.exe
+c:\users\netro\documents\visual studio 2013\Projects\Anime Streamer\Anime Streamer\obj\Debug\Anime Streamer.xml
+c:\users\netro\documents\visual studio 2013\Projects\Anime Streamer\Anime Streamer\obj\Debug\Anime Streamer.pdb
+c:\users\netro\documents\visual studio 2013\Projects\Anime Streamer\Anime Streamer\obj\Debug\Anime_Streamer.UControl_PeopleRWatching.resources
+c:\users\netro\documents\visual studio 2013\Projects\Anime Streamer\Anime Streamer\obj\Debug\Anime_Streamer.UControl_PopularItem.resources
+c:\users\netro\documents\visual studio 2013\Projects\Anime Streamer\Anime Streamer\obj\Debug\Anime_Streamer.UControl_OnGSeries.resources
+c:\users\netro\documents\visual studio 2013\Projects\Anime Streamer\Anime Streamer\obj\Debug\Anime_Streamer.UControl_NewRelease.resources
+c:\users\netro\documents\visual studio 2013\Projects\Anime Streamer\Anime Streamer\obj\Debug\Anime Streamer.vbproj.ResolveComReference.cache
+c:\users\netro\documents\visual studio 2013\Projects\Anime Streamer\Anime Streamer\obj\Debug\Anime_Streamer.UControl_Player.resources
+C:\Users\Netro\Documents\Visual Studio 2013\Projects\Anime Streamer\Anime Streamer\obj\Debug\Anime_Streamer.UControl_AnimeSelector.resources
+C:\Users\Netro\Documents\Visual Studio 2013\Projects\Anime Streamer\Anime Streamer\obj\Debug\Anime_Streamer.UControl_Recommendation.resources
+C:\Users\Netro\Documents\Visual Studio 2013\Projects\Anime Streamer\Anime Streamer\obj\Debug\Anime_Streamer.Loading.resources
+C:\Users\Netro\Documents\Visual Studio 2013\Projects\Anime Streamer\Anime Streamer\obj\Debug\Anime_Streamer.UControl_VideoOptions.resources
+C:\Users\Netro\Documents\Visual Studio 2013\Projects\Anime Streamer\Anime Streamer\obj\Debug\Anime_Streamer.Updater.resources
+C:\Users\Netro\Documents\Visual Studio 2013\Projects\Anime Streamer\Anime Streamer\obj\Debug\Anime_Streamer.UControl_ListOption.resources
+C:\Users\Netro\Documents\Visual Studio 2013\Projects\Anime Streamer\Anime Streamer\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\Netro\documents\visual studio 2013\Projects\Anime Streamer\Anime Streamer\obj\Debug\Anime Streamer.vbprojResolveAssemblyReference.cache
+C:\Users\Netro\Documents\Visual Studio 2013\Projects\Anime Streamer\Anime Streamer\bin\Debug\Interop.WMPLib.dll
+C:\Users\Netro\Documents\Visual Studio 2013\Projects\Anime Streamer\Anime Streamer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Netro\Documents\Visual Studio 2013\Projects\Anime Streamer\Anime Streamer\obj\Debug\Interop.WMPLib.dll
+C:\Users\Netro\Documents\Visual Studio 2013\Projects\Anime Streamer\Anime Streamer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Netro\Documents\Visual Studio 2013\Projects\Anime Streamer\Anime Streamer\bin\Debug\PluginLib.dll
+C:\Users\Netro\Documents\Visual Studio 2013\Projects\Anime Streamer\Anime Streamer\bin\Debug\PluginLib.pdb
+C:\Users\Netro\Documents\Visual Studio 2013\Projects\Anime Streamer\Anime Streamer\bin\Debug\PluginLib.xml
+C:\Users\Nettro\Desktop\Visual Studio 2013\Projects\Anime Streamer\Anime Streamer\bin\Debug\Anime Streamer.exe.config
+C:\Users\Nettro\Desktop\Visual Studio 2013\Projects\Anime Streamer\Anime Streamer\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\Nettro\Desktop\Visual Studio 2013\Projects\Anime Streamer\Anime Streamer\obj\Debug\Interop.WMPLib.dll
+C:\Users\Nettro\Desktop\Visual Studio 2013\Projects\Anime Streamer\Anime Streamer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Nettro\Desktop\Visual Studio 2013\Projects\Anime Streamer\Anime Streamer\obj\Debug\Anime Streamer.vbproj.ResolveComReference.cache
+C:\Users\Nettro\Desktop\Visual Studio 2013\Projects\Anime Streamer\Anime Streamer\obj\Debug\Anime Streamer.exe
+C:\Users\Nettro\Desktop\Visual Studio 2013\Projects\Anime Streamer\Anime Streamer\obj\Debug\Anime Streamer.xml
+C:\Users\Nettro\Desktop\Visual Studio 2013\Projects\Anime Streamer\Anime Streamer\obj\Debug\Anime Streamer.pdb
+C:\Users\Nettro\Desktop\Visual Studio 2013\Projects\Anime Streamer\Anime Streamer\bin\Debug\Anime Streamer.exe
+C:\Users\Nettro\Desktop\Visual Studio 2013\Projects\Anime Streamer\Anime Streamer\bin\Debug\Anime Streamer.pdb
+C:\Users\Nettro\Desktop\Visual Studio 2013\Projects\Anime Streamer\Anime Streamer\bin\Debug\Anime Streamer.xml
+C:\Users\Nettro\Desktop\Visual Studio 2013\Projects\Anime Streamer\Anime Streamer\bin\Debug\PluginLib.pdb
+C:\Users\Nettro\Desktop\Visual Studio 2013\Projects\Anime Streamer\Anime Streamer\bin\Debug\PluginLib.xml
+C:\Users\Nettro\Desktop\Visual Studio 2013\Projects\Anime Streamer\Anime Streamer\bin\Debug\Interop.WMPLib.dll
+C:\Users\Nettro\Desktop\Visual Studio 2013\Projects\Anime Streamer\Anime Streamer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Nettro\Desktop\Visual Studio 2013\Projects\Anime Streamer\Anime Streamer\obj\Debug\Anime Streamer.vbprojResolveAssemblyReference.cache
+C:\Users\Nettro\Desktop\Visual Studio 2013\Projects\Anime Streamer\Anime Streamer\obj\Debug\Anime_Streamer.UControl_AnimeSelector.resources
+C:\Users\Nettro\Desktop\Visual Studio 2013\Projects\Anime Streamer\Anime Streamer\obj\Debug\Anime_Streamer.UControl_ListOption.resources
+C:\Users\Nettro\Desktop\Visual Studio 2013\Projects\Anime Streamer\Anime Streamer\obj\Debug\Anime_Streamer.UControl_NewRelease.resources
+C:\Users\Nettro\Desktop\Visual Studio 2013\Projects\Anime Streamer\Anime Streamer\obj\Debug\Anime_Streamer.UControl_OnGSeries.resources
+C:\Users\Nettro\Desktop\Visual Studio 2013\Projects\Anime Streamer\Anime Streamer\obj\Debug\Anime_Streamer.UControl_PeopleRWatching.resources
+C:\Users\Nettro\Desktop\Visual Studio 2013\Projects\Anime Streamer\Anime Streamer\obj\Debug\Anime_Streamer.UControl_Player.resources
+C:\Users\Nettro\Desktop\Visual Studio 2013\Projects\Anime Streamer\Anime Streamer\obj\Debug\Anime_Streamer.UControl_PopularItem.resources
+C:\Users\Nettro\Desktop\Visual Studio 2013\Projects\Anime Streamer\Anime Streamer\obj\Debug\Anime_Streamer.UControl_Recommendation.resources
+C:\Users\Nettro\Desktop\Visual Studio 2013\Projects\Anime Streamer\Anime Streamer\obj\Debug\Anime_Streamer.UControl_VideoOptions.resources
+C:\Users\Nettro\Desktop\Visual Studio 2013\Projects\Anime Streamer\Anime Streamer\obj\Debug\Anime_Streamer.Loading.resources
+C:\Users\Nettro\Desktop\Visual Studio 2013\Projects\Anime Streamer\Anime Streamer\obj\Debug\Anime_Streamer.Main.resources
+C:\Users\Nettro\Desktop\Visual Studio 2013\Projects\Anime Streamer\Anime Streamer\obj\Debug\Anime_Streamer.Updater.resources
+C:\Users\Nettro\Desktop\Visual Studio 2013\Projects\Anime Streamer\Anime Streamer\obj\Debug\Anime_Streamer.Resources.resources
+C:\Users\Nettro\Desktop\Visual Studio 2013\Projects\Anime Streamer\Anime Streamer\obj\Debug\Anime Streamer.vbproj.GenerateResource.Cache
+E:\Backup\Documents\Visual Studio 2013\Projects\Anime Streamer\Anime Streamer\bin\Debug\Anime Streamer.exe.config
+E:\Backup\Documents\Visual Studio 2013\Projects\Anime Streamer\Anime Streamer\obj\Debug\Interop.IWshRuntimeLibrary.dll
+E:\Backup\Documents\Visual Studio 2013\Projects\Anime Streamer\Anime Streamer\obj\Debug\Anime Streamer.vbproj.ResolveComReference.cache
+E:\Backup\Documents\Visual Studio 2013\Projects\Anime Streamer\Anime Streamer\obj\Debug\Anime Streamer.exe
+E:\Backup\Documents\Visual Studio 2013\Projects\Anime Streamer\Anime Streamer\obj\Debug\Anime Streamer.xml
+E:\Backup\Documents\Visual Studio 2013\Projects\Anime Streamer\Anime Streamer\obj\Debug\Anime Streamer.pdb

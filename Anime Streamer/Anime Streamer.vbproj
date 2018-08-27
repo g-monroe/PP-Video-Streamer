@@ -1,0 +1,419 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{213495EE-955C-435D-A9F1-44CCA8445D59}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Anime_Streamer.My.MyApplication</StartupObject>
+    <RootNamespace>Anime_Streamer</RootNamespace>
+    <AssemblyName>Anime Streamer</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Anime Streamer.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Anime Streamer.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>favicon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Test|AnyCPU'">
+    <OutputPath>bin\Test\</OutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Classes\Globals\Notifaction.vb" />
+    <Compile Include="Classes\Globals\CommandLine.vb" />
+    <Compile Include="Classes\Home\Home.vb" />
+    <Compile Include="Classes\Misc\ConsoleCore.vb" />
+    <Compile Include="Classes\Globals\Loading.vb" />
+    <Compile Include="Classes\Globals\Filter.vb" />
+    <Compile Include="Classes\Globals\Globals.vb" />
+    <Compile Include="Classes\Home\Home_NRS.vb" />
+    <Compile Include="Classes\Home\Home_OGS.vb" />
+    <Compile Include="Classes\Home\Home_POP.vb" />
+    <Compile Include="Classes\Home\Home_PRW.vb" />
+    <Compile Include="Classes\Misc\Favorites.vb" />
+    <Compile Include="Classes\Misc\History.vb" />
+    <Compile Include="Classes\Misc\Settings.vb" />
+    <Compile Include="Classes\Misc\Watching.vb" />
+    <Compile Include="Classes\Player\Evulate.vb" />
+    <Compile Include="Classes\Player\ParserCore.vb" />
+    <Compile Include="Classes\Player\Parser_EasyVideo.vb" />
+    <Compile Include="Classes\Player\Parser_Playbb.vb" />
+    <Compile Include="Classes\Player\Parser_VideoWeed.vb" />
+    <Compile Include="Classes\Player\Parser_Byzoo.vb" />
+    <Compile Include="Classes\Player\Parser_Play44.vb" />
+    <Compile Include="Classes\Player\Parser_PlayPanada.vb" />
+    <Compile Include="Classes\Player\Parser_Video44.vb" />
+    <Compile Include="Classes\Player\Parser_VideoFun.vb" />
+    <Compile Include="Classes\Player\Parser_VideoWing.vb" />
+    <Compile Include="Classes\Player\Parser_VideoZoo.vb" />
+    <Compile Include="Classes\Player\Parser_yucache.vb" />
+    <Compile Include="Classes\Shows\Dubbed.vb" />
+    <Compile Include="Classes\Shows\Encycl.vb" />
+    <Compile Include="Classes\Shows\Listings.vb" />
+    <Compile Include="Classes\Shows\Recommendations.vb" />
+    <Compile Include="Classes\Shows\Subbed.vb" />
+    <Compile Include="Custom Controls\UControl_AnimeSelector.Designer.vb">
+      <DependentUpon>UControl_AnimeSelector.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Custom Controls\UControl_AnimeSelector.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Custom Controls\UControl_ListOption.Designer.vb">
+      <DependentUpon>UControl_ListOption.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Custom Controls\UControl_ListOption.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Custom Controls\UControl_NewRelease.Designer.vb">
+      <DependentUpon>UControl_NewRelease.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Custom Controls\UControl_NewRelease.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Custom Controls\UControl_OnGSeries.Designer.vb">
+      <DependentUpon>UControl_OnGSeries.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Custom Controls\UControl_OnGSeries.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Custom Controls\UControl_PeopleRWatching.Designer.vb">
+      <DependentUpon>UControl_PeopleRWatching.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Custom Controls\UControl_PeopleRWatching.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Custom Controls\UControl_Player.Designer.vb">
+      <DependentUpon>UControl_Player.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Custom Controls\UControl_Player.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Custom Controls\UControl_PopularItem.Designer.vb">
+      <DependentUpon>UControl_PopularItem.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Custom Controls\UControl_PopularItem.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Custom Controls\UControl_Recommendation.Designer.vb">
+      <DependentUpon>UControl_Recommendation.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Custom Controls\UControl_Recommendation.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Custom Controls\UControl_VideoOptions.Designer.vb">
+      <DependentUpon>UControl_VideoOptions.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Custom Controls\UControl_VideoOptions.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Forms\Loading.Designer.vb">
+      <DependentUpon>Loading.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Loading.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Updater.Designer.vb">
+      <DependentUpon>Updater.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Updater.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GDI Controls\Base\Bloom.vb" />
+    <Compile Include="GDI Controls\Container_Form.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="GDI Controls\Contol_TabSelector.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="GDI Controls\Control_Base.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="GDI Controls\Control_Gloss_Control.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="GDI Controls\Control_Groupbox.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="GDI Controls\Control_HomeItem.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="GDI Controls\Control_Listbox.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="GDI Controls\Control_Listview.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="GDI Controls\Control_LI_GroupBox.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="GDI Controls\Control_None_Groupbox.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="GDI Controls\Control_Note.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="GDI Controls\Control_NT_TabControl.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="GDI Controls\Control_Player.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="GDI Controls\Control_PlayTaskBar.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="GDI Controls\Control_Progressbar.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="GDI Controls\Control_PureGB.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="GDI Controls\Control_Tabcontrol.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="GDI Controls\Control_TagLabel.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="GDI Controls\Control_Toggle.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="GDI Controls\Control_VolumeSlider.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="GDI Controls\Control_WaveForm.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="GDI Controls\Control_TopBar.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Forms\Main.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Main.Designer.vb">
+      <DependentUpon>Main.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GDI Controls\Base\MouseState.vb" />
+    <Compile Include="GDI Controls\Base\ThemeBase.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="GDI Controls\Searchbox_Controls.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Custom Controls\UControl_AnimeSelector.resx">
+      <DependentUpon>UControl_AnimeSelector.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Custom Controls\UControl_ListOption.resx">
+      <DependentUpon>UControl_ListOption.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Custom Controls\UControl_NewRelease.resx">
+      <DependentUpon>UControl_NewRelease.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Custom Controls\UControl_OnGSeries.resx">
+      <DependentUpon>UControl_OnGSeries.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Custom Controls\UControl_PeopleRWatching.resx">
+      <DependentUpon>UControl_PeopleRWatching.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Custom Controls\UControl_Player.resx">
+      <DependentUpon>UControl_Player.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Custom Controls\UControl_PopularItem.resx">
+      <DependentUpon>UControl_PopularItem.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Custom Controls\UControl_Recommendation.resx">
+      <DependentUpon>UControl_Recommendation.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Custom Controls\UControl_VideoOptions.resx">
+      <DependentUpon>UControl_VideoOptions.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Loading.resx">
+      <DependentUpon>Loading.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Main.resx">
+      <DependentUpon>Main.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Updater.resx">
+      <DependentUpon>Updater.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+    <None Include="Resources\Globe.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cloud1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo_TopBar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Home_Sel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Home_UnSel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Player_Sel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Player_UnSel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Shows_Sel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Shows_UnSel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Profile_Sel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Profile_UnSel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="IWshRuntimeLibrary">
+      <Guid>{F935DC20-1CF0-11D0-ADB9-00C04FD58A0B}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fav_UnSel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fav_Sel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\left.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Refresh.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rezisss1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\right.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Down1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="favicon.ico" />
+    <None Include="Resources\1419070646_685082-Search-128.png" />
+    <None Include="Resources\-.png" />
+    <None Include="Resources\+.png" />
+    <None Include="Resources\Clock_UnSel.png" />
+    <None Include="Resources\Clock.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <Import Project="..\packages\Microsoft.Bcl.Build.1.0.14\tools\Microsoft.Bcl.Build.targets" Condition="Exists('..\packages\Microsoft.Bcl.Build.1.0.14\tools\Microsoft.Bcl.Build.targets')" />
+  <Target Name="EnsureBclBuildImported" BeforeTargets="BeforeBuild" Condition="'$(BclBuildImported)' == ''">
+    <Error Condition="!Exists('..\packages\Microsoft.Bcl.Build.1.0.14\tools\Microsoft.Bcl.Build.targets')" Text="This project references NuGet package(s) that are missing on this computer. Enable NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=317567." HelpKeyword="BCLBUILD2001" />
+    <Error Condition="Exists('..\packages\Microsoft.Bcl.Build.1.0.14\tools\Microsoft.Bcl.Build.targets')" Text="The build restored NuGet packages. Build the project again to include these packages in the build. For more information, see http://go.microsoft.com/fwlink/?LinkID=317568." HelpKeyword="BCLBUILD2002" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
